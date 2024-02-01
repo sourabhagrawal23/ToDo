@@ -1,8 +1,8 @@
 <html>
     <head>
-        <title> JSP Page </title>
+        <title> Login </title>
     </head>
     <body>
-        JSP Page Body
+        Welcome to the login page!
     </body>
 </html>
